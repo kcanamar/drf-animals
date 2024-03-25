@@ -85,6 +85,7 @@ TEMPLATES = [
     },
 ]
 
+# This is the command to give to RENDER to start the application
 WSGI_APPLICATION = 'animals.wsgi.application'
 
 
